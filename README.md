@@ -1,5 +1,5 @@
 Windows 11 Pro Education
-kartofel
+kartofe
 <<<<<<< HEAD
 2.46.0 Git
 =======
